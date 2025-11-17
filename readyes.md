@@ -34,7 +34,6 @@ increase in tensile strength compared to plain SCC.
 \-\--
 
 \## 🧪 Materials Used
-
 \- Ordinary Portland Cement (53 grade) - Crushed granite (coarse
 aggregate) - River sand (fine aggregate) - Fly ash (Grade I) -
 Superplasticizer (SNF-based) - Viscosity Modifying Agent (VMA) -
