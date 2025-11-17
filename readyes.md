@@ -12,13 +12,7 @@
 -  [Dashboard](#-Dashboard)
 -  [Author](#-Author)
   
-\## 📌 Table of Contents
 
-\- \[Overview\](#-overview) - \[Materials Used\](#-Materials Used) -
-\[Mix Design\](#-Mix Design (M30 Grade SCC)) - \[Experimental
-Phases\](#-Experimental Phases) - \[Testing Methods\](#-Testing
-Methods) - \[Key Results\](#-Key Results) - \[Timeline\](#-Timeline) -
-\[Dashboard\](#-Dashboard) - \[Author\](#-Author)
 
 \# 🧱 Performance of Hybrid Fibre Reinforced Self-Compacting Concrete
 
