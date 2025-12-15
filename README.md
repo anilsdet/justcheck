@@ -65,7 +65,7 @@ he study explores how fiber reinforcement — specifically steel, glass, and hyb
 2. **Phase II**: Develop GFRSCC, SFRSCC, and HFRSCC and compare performance.
 
 ---
-<h2><a class="anchor" id="Key Results"></a>Key Results</h2>
+<h2><a class="anchor" id="Key Results"></a>Key Results (28 days strength)</h2>
 
 | Mix Type   | Compressive Strength (MPa) | % Increase | Split Tensile Strength (MPa) | % Increase |
 |-------------|-------------------------------------|---------------|---------------------------------------|---------------|
